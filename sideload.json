@@ -1,12 +1,24 @@
 {
+  "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
   "name": "NissanConnect IPA Repo",
+  "identifier": "com.snowfall6879.nissanconnectipa",
   "apps": [
     {
       "name": "NissanConnect",
       "bundleIdentifier": "com.nissanusa.com.nissanusa.leaf",
-      "version": "8.0.4",
       "developerName": "Nissan",
-      "downloadURL": "https://github.com/snowfall6879/nissanconnectipa/releases/download/tag/com.nissanusa.com.nissanusa.leaf_8.0.4_und3fined.ipa"
+      "subtitle": "Official Nissan Leaf app",
+      "localizedDescription": "NissanConnect companion app packaged for sideloading.",
+      "iconURL": "https://github.com/snowfall6879/nissanconnectipa/blob/main/image-2025-07-11-223542.png",
+      "versions": [
+        {
+          "version": "8.0.4",
+          "date": "2025-08-21",
+          "downloadURL": "https://github.com/snowfall6879/nissanconnectipa/releases/download/<tag>/<com.nissanusa.com.nissanusa.leaf_8.0.4_und3fined.ipa>",
+          "size": 12345678,
+          "minOSVersion": "12.0"
+        }
+      ]
     }
   ]
 }

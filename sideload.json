@@ -1,12 +1,12 @@
 {
-  "name": "Nissan CONNECT Repo",
+  "name": "NissanConnect IPA Repo",
   "apps": [
     {
-      "name": "Nissan CONNECT",
+      "name": "NissanConnect",
       "bundleIdentifier": "com.nissanusa.com.nissanusa.leaf",
       "version": "8.0.4",
       "developerName": "Nissan",
-      "downloadURL": "https://github.com/snowfall6879/nissanconnectipa/releases/download/<tag>/<filename>.ipa"
+      "downloadURL": "https://github.com/snowfall6879/nissanconnectipa/releases/download/tag/com.nissanusa.com.nissanusa.leaf_8.0.4_und3fined.ipa"
     }
   ]
 }
